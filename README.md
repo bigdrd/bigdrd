@@ -58,20 +58,12 @@
 
 ## Inspirations
 
-- [Antoine Vastel's blog](https://antoinevastel.com/)
-- [TimescaleDB's blog](https://blog.timescale.com/blog/how-i-power-a-successful-crypto-trading-bot-with-timescaledb/)
-- [johackim's hacklab](https://johackim.com/start)
-- [puppeteer-extra's wiki](https://github.com/berstend/puppeteer-extra/wiki)
-- [the puppeteer-extra community](https://extra.community/)
-- [Prescience's dark-knowledge](https://github.com/prescience-data/dark-knowledge) (and all Prescience's work)
-- [niespod's browser-fingerprinting cheatsheet](https://github.com/niespodd/browser-fingerprinting)
 
-## Contact
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/telegram.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/gmail.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+</p>
 
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2" height="30" width="40" /></a>
-
-Telegram: 
-
-Mail: 
-
-![cute hedgehog image](https://user-images.githubusercontent.com/13921610/138776571-6119f075-8e8a-4ac1-bc6a-8b598fbdb1d8.png)
